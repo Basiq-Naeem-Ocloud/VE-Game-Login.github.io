@@ -101,13 +101,6 @@ html {
   color: #ccc;
 }
 
-/* .footer{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    color: white;
-    font-family: Montserrat;
-} */
 .footer {
   position: fixed;
   left: 0;
